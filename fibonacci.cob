@@ -1,5 +1,5 @@
 000100 identification division.
-000200 program-id. HELLO.
+000200 program-id. FIBONACCI.
 000300 
 000400 data division.
 000500     working-storage section.
